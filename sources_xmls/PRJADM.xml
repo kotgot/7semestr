@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<dbd_schema version="v1.0.1.0" name="PRJADM" description="Описатель БД PRADM">
+<dbd_schema version="v1.0.1.0" name="PRJADM" description="Описатедь БД PRADM">
   <custom/>
   <domains>
     <domain name="BinData" type="BLOB" align="L"/>

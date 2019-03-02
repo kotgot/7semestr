@@ -276,7 +276,6 @@
   <tables>
     <table name="ACCOUNT" description="Счета" props="add, edit" ht_table_flags="rws" access_level="0">
       <field name="id_ACC" rname="id_ACC" domain="id_ACC" props="autocalculated"/>
-      <field name="ТестовоеПоле" rname="КодДоговор" type="STRING" align="L" width="15" char_length="15" props="input, edit, show_in_details"/>
       <field name="KodDogovor" rname="КодДоговор" domain="КодДоговор" props="input, edit, show_in_details"/>
       <field name="N_scheta" rname="N счета" domain="N счета" props="input, edit, show_in_grid, show_in_details, required"/>
       <field name="DataScheta" rname="ДатаСчета" domain="Дата" props="input, edit, show_in_grid, show_in_details, required"/>
