@@ -1,4 +1,4 @@
-import data_base_sources.DBClasses as Dbc
+import db_sources.DBClasses as Dbc
 
 
 class DBException(Exception):
